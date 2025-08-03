@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+                 <!--Text size-->
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_28">28sp</dimen>
+    <dimen name="text_size_10">10sp</dimen>
+
+                <!--Corner radius-->
+    <dimen name="corner_radius_40">40dp</dimen>
+    <dimen name="corner_radius_24">24dp</dimen>
+    <dimen name="corner_radius_16">16dp</dimen>
+
+</resources>

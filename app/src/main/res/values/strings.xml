@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DailyQuiz</string>
+    <string name="text_greeting">Добро пожаловать в DailyQuiz!</string>
+    <string name="text_history">История</string>
+    <string name="text_start">Начать викторину</string>
+    <string name="text_next">Далее</string>
+    <string name="text_warning">Вернуться к предыдущим вопросам нельзя</string>
+
 </resources>

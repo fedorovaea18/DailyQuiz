@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="background_button_next">#BABABA</color>
+    <color name="background_color">#7067FF</color>
+    <color name="number_question_color">#BCB7FF</color>
+    <color name="selected_option">#2B0063</color>
+    <color name="correct_answer">#00AE3A</color>
+    <color name="wrong_answer">#E70000</color>
 </resources>
